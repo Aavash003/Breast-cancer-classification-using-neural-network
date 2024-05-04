@@ -1,3 +1,3 @@
-#Breast cancer classification using neural network.
-<br>
-To predict the output provide the input data in the predictive system.
+# Breast cancer classification using neural network.
+This project uses a neural network to classify breast tumors as malignant or benign.
+To generate predictions, input data into the predictive system.
